@@ -1,0 +1,6 @@
+type: material
+name: Steel
+description: Steel. An alloy of iron and carbon, made to be durable.
+hardness: 7
+cost: 5
+color: fbfbfb
