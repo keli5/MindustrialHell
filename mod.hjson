@@ -3,5 +3,4 @@ displayName: Mindustrial [red]Hell[]
 author: [green]letters2[][blue]#1343[]
 description: This is my mod. Doesn't integrate well with the game at all
 version: "-INCOMPLETE"
-minGameVersion: "101.0"
-dependencies: [ ]
+minGameVersion: "100.0"
