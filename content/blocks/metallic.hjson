@@ -12,6 +12,11 @@ ammo: {
         backColor: dddddd
     }
 }
+requirements: [
+    copper/80
+    silicon/5
+    lead/50
+]
 size: 2
 coolantMultiplier: 8
 shootEffect: ballfire
