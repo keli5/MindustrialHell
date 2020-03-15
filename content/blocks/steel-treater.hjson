@@ -1,20 +1,21 @@
 type: GenericCrafter
 craftEffect: redgeneratespark
-outputItem: steel/1
+outputItem: steel/2
 consumes: {
     items: {
         items: [
             coal/1
-            iron/1
+            iron/2
         ]
     }
-    power: 2
+    power: 1.75
 }
 category: crafting
 requirements: [
-    copper/20
-
+    copper/80
+    silicon/5
+    lead/50
 ]
 size: 2
-name: Steel Treater
+name: Blast Furnace
 description: Smelts down iron ore to remove impurities, and then alloys it with coal to produce steel.
