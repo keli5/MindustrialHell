@@ -1,0 +1,17 @@
+type: GenericCrafter
+craftEffect: redgeneratespark
+outputItem: steel/1
+consumes: {
+    items: {
+        items: [
+            coal/1
+            iron/1
+        ]
+    }
+    power: 100
+}
+category: crafting
+requirements: [
+    copper/20
+    
+]
