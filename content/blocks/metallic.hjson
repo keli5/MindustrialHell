@@ -1,0 +1,17 @@
+name: Metallic
+description: A fairly strong air/ground turret that lobs huge chunks of steel at units. It's hindered by slow reload times, which can be rectified with coolant.
+ammo: {
+    steel: {
+        type:  BasicBulletType
+        lifetime: 1000
+        speed: 3
+        splashDamageRadius: 6
+        splashDamage: 40
+        frontColor: ffffff
+        backColor: dddddd
+    }
+}
+size: 2
+coolantMultiplier: 8
+shootEffect: ballfire
+smokeEffect: generatespark
