@@ -8,10 +8,10 @@ consumes: {
             iron/1
         ]
     }
-    power: 100
+    power: 2
 }
 category: crafting
 requirements: [
     copper/20
-    
+
 ]
