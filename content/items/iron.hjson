@@ -1,6 +1,0 @@
-type: material
-name: Iron
-description: A normal resource. Comes from the ground, can be used to create steel.
-hardness: 3
-cost: 2
-color: 8a5010
