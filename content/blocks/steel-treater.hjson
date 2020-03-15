@@ -15,3 +15,6 @@ requirements: [
     copper/20
 
 ]
+size: 2
+name: Steel Treater
+description: Smelts down iron ore to remove impurities, and then alloys it with coal to produce steel.
