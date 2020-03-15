@@ -1,4 +1,5 @@
 name: Metallic
+type: ItemTurret
 description: A fairly strong air/ground turret that lobs huge chunks of steel at units. It's hindered by slow reload times, which can be rectified with coolant.
 ammo: {
     steel: {
