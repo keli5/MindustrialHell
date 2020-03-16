@@ -9,6 +9,7 @@ consumes: {
     }
     power: 4
 }
+craftTime: 240
 category: crafting
 requirements: [
     copper/50
