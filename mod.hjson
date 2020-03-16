@@ -1,7 +1,7 @@
 name: mindustrialhell
 displayName: "Mindustrial [red]Hell[]" // These have to be enclosed with quotes for color markup
 author: "[green]letters2[][blue]#1343[]"
-description: This is my mod. Doesn't integrate well with the game at all, so use with caution.
+description: "This is my mod. Doesn't integrate well with the game at all, so use with caution.\nRequires Litleck's Elements mod to work. Install via GitHub: [yellow]litleck/elements[]"
 version: "-INCOMPLETE"
 minGameVersion: "100.0"
 dependencies: [ elements ]

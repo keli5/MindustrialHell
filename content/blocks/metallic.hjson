@@ -22,7 +22,7 @@ restitution: 0.2
 shootShake: 0.75
 inaccuracy: 5.5
 range: 160
-sound: artillery
+sound: bigshot
 size: 2
 coolantMultiplier: 6
 shootEffect: ballfire
