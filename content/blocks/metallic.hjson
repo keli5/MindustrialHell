@@ -21,7 +21,7 @@ recoil: 3
 restitution: 0.2
 shootShake: 0.75
 inaccuracy: 5.5
-range: 160
+range: 120
 sound: bigshot
 size: 2
 coolantMultiplier: 6
