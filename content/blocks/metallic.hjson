@@ -12,10 +12,15 @@ ammo: {
     }
 }
 requirements: [
-    copper/80
-    silicon/5
-    lead/50
+    copper/100
+    lead/75
+    steel/30
 ]
+reload: 70 // 1.1 seconds
+recoil: 3
+restitution: 0.1
+shootShake: 0.2
+inaccuracy: 5.5
 range: 100
 size: 2
 coolantMultiplier: 8
