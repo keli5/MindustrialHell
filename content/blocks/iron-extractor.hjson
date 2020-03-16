@@ -4,12 +4,6 @@ outputItem: elements-iron/1
 consumes: {
     items: {
         items: [
-            copper/230
-        ]
-        [
-            lead/210
-        ]
-        [
             titanium/195
         ]
     }
@@ -23,4 +17,4 @@ requirements: [
 ]
 size: 2
 name: Iron Extractor
-description: Makes use of impurities in mined metals. Takes a TON of power and metals to pull out some iron.
+description: Makes use of the impurities in titanium mined from the ground. Uses a ton of titanium and power to generate iron.
