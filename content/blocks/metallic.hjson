@@ -16,7 +16,7 @@ requirements: [
     lead/75
     steel/30
 ]
-reload: 3600 //about a second
+reload: 360 //about a second
 recoil: 3
 restitution: 0.2
 shootShake: 0.75
