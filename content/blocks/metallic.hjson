@@ -16,14 +16,15 @@ requirements: [
     lead/75
     steel/30
 ]
-reload: 70 // 1.1 seconds
+reload: 3600 //about a second
 recoil: 3
-restitution: 0.1
-shootShake: 0.2
+restitution: 0.2
+shootShake: 0.75
 inaccuracy: 5.5
-range: 100
+range: 160
+sound: artillery
 size: 2
-coolantMultiplier: 8
+coolantMultiplier: 6
 shootEffect: ballfire
 smokeEffect: generatespark
 category: turret
