@@ -21,6 +21,6 @@ requirements: [
     silicon/100
     phase-fabric/35
 ]
-size: 4
+size: 2
 name: Iron Extractor
 description: Makes use of impurities in mined metals. Takes a TON of power and metals to pull out some iron.
