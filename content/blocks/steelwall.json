@@ -8,5 +8,6 @@
     "requirements": [
         "steel/6"
     ],
-    "category": "defense"
+    "category": "defense",
+    "buildCostMultiplier": 0.2
 }

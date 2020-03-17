@@ -9,5 +9,6 @@
         "steel/24"
     ],
     "category": "defense",
+    "buildCostMultiplier": 0.21,
     "size": 2
 }
