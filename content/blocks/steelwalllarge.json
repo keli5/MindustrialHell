@@ -1,0 +1,13 @@
+{
+    "type": "Wall",
+    "destructible": true,
+    "unloadable": false,
+    "health": 3130,
+    "name": "Large Steel Wall",
+    "description": "A healthily strong wall. Provides ample protection from enemies.\nSpans multiple tiles.",
+    "requirements": [
+        "steel/24"
+    ],
+    "category": "defense",
+    "size": 2
+}

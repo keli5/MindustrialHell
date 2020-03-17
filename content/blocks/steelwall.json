@@ -1,0 +1,12 @@
+{
+    "type": "Wall",
+    "destructible": true,
+    "unloadable": false,
+    "health": 780,
+    "name": "Steel Wall",
+    "description": "A healthily strong wall. Provides ample protection from enemies.",
+    "requirements": [
+        "steel/6"
+    ],
+    "category": "defense"
+}
