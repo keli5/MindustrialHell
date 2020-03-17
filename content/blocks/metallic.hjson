@@ -26,6 +26,5 @@ sound: bigshot
 size: 2
 coolantMultiplier: 5.5
 shootEffect: fire
-smokeEffect: generatesmoke
 category: turret
 visibility: sandbox
