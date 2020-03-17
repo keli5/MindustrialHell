@@ -19,13 +19,13 @@ requirements: [
 reload: 80 // cause it's a god damn CANNON
 recoil: 3
 restitution: 0.2
-shootShake: 0.75
+shootShake: 0.6
 inaccuracy: 5.5
 range: 120
 sound: bigshot
 size: 2
-coolantMultiplier: 6
-shootEffect: ballfire
-smokeEffect: generatespark
+coolantMultiplier: 5.5
+shootEffect: fire
+smokeEffect: generatesmoke
 category: turret
 visibility: sandbox
