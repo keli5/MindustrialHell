@@ -1,0 +1,6 @@
+type: material
+name: Stainless Steel
+description: Stainless steel. An alloy of steel and chromium, even tougher than steel and doesn't hold colors from stains.
+hardness: 11
+cost: 5
+color: ffffff

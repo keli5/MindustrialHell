@@ -1,0 +1,23 @@
+type: GenericCrafter
+craftEffect: generatespark
+outputItem: stainlesssteel/2
+consumes: {
+    items: {
+        items: [
+            steel/4
+            elements-chromium/2
+        ]
+    }
+    power: 2
+}
+craftTime: 240
+category: crafting
+requirements: [
+    copper/120
+    steel/20
+    silicon/10
+    lead/65
+]
+size: 3
+name: Stainless Steel Foundry
+description: Alloys together chromium and steel to generate stainless steel.
