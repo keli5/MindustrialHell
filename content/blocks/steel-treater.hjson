@@ -5,7 +5,7 @@ consumes: {
     items: {
         items: [
             coal/1
-            elements-iron/2
+            elemental-additions-iron/2
         ]
     }
     power: 1.75

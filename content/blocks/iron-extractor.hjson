@@ -1,6 +1,6 @@
 type: GenericCrafter
 craftEffect: redgeneratespark
-outputItem: elements-iron/1
+outputItem: elemental-additions-iron/1
 consumes: {
     items: {
         items: [

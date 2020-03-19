@@ -5,7 +5,7 @@ consumes: {
     items: {
         items: [
             steel/4
-            elements-chromium/2
+            elemental-additions-chromium/2
         ]
     }
     power: 2
